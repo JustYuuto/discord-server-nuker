@@ -1,0 +1,5 @@
+/.idea/
+/node_modules/
+
+# personal scripts
+server-init.js
